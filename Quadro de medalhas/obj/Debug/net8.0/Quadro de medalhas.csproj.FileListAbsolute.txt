@@ -1,0 +1,14 @@
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\bin\Debug\net8.0\Quadro de medalhas.exe
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\bin\Debug\net8.0\Quadro de medalhas.deps.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\bin\Debug\net8.0\Quadro de medalhas.runtimeconfig.json
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\bin\Debug\net8.0\Quadro de medalhas.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\bin\Debug\net8.0\Quadro de medalhas.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.AssemblyInfoInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.AssemblyInfo.cs
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.csproj.CoreCompileInputs.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\refint\Quadro de medalhas.dll
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.pdb
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\Quadro de medalhas.genruntimeconfig.cache
+C:\Users\NITRO5\Desktop\PROGRAMAÇÃO\Lista de exercicios 2\Quadro de medalhas\obj\Debug\net8.0\ref\Quadro de medalhas.dll
